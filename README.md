@@ -38,9 +38,12 @@
     <img src="https://img.shields.io/badge/jira-0052CC.svg?style=flat-rounded&logo=jira&logoColor=white" style="border-radius: 10px; height: 25px;"/>&nbsp
 </div>
 
-
+<h2>Resume</h2>
+<a href="https://superb-chickadee-123.notion.site/d6eebab83c954bac97d21bcff38c5e78" target="_blank">Notion</a>
 
 <br>
+<br>
+
 <h2>GitHub Stats</h2>
 <div align=center>
   <div>
