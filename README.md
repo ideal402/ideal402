@@ -1,4 +1,4 @@
-![Rounded](https://capsule-render.vercel.app/api?type=rounded&color=0:161B33,100:141414&text=Welcome!&fontAlignY=50&fontColor=D9BD89&fontSize=60&height=160&desc=ideal's%20GitHub&descAlignY=75&descAlign=60)
+![Rounded](https://capsule-render.vercel.app/api?type=soft&color=0:161B33,100:141414&text=Welcome!&fontAlignY=50&fontColor=D9BD89&fontSize=60&height=160&desc=ideal's%20GitHub&descAlignY=75&descAlign=60)
 
 <!--내용 부분-->
 <h2>Tech Stack</h2>
