@@ -1,5 +1,7 @@
 ![Rounded](https://capsule-render.vercel.app/api?type=rounded&color=0:F2E9D8,100:F2DFBB&text=Welcome!&fontAlignY=50&fontSize=60&height=160&&desc=ideal's%20GitHub&descAlignY=75&descAlign=60)
 
+![Rounded](https://capsule-render.vercel.app/api?type=rounded&color=0:121D40,40:D9BD89,60:D9BB96,100:403F51&text=Welcome!&fontAlignY=50&fontSize=60&height=160&desc=ideal's%20GitHub&descAlignY=75&descAlign=60)
+
 <!--내용 부분-->
 <h2>Tech Stack</h2>
 <div>
@@ -54,3 +56,15 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ideal402&bg_color=2E2E2E&color=F2DFBB&line=F2E9D8&point=F2DFBB&area=true&hide_border=true" style="width: 95%; heigth:300px">
   </div>
 </div>
+
+<h2>GitHub Stats</h2>
+<div align=center>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=ideal402&show_icons=true&title_color=D9BD89&text_color=F2DFBB&bg_color=0D0D0D&icon_color=2B4C8C&border_color=121D40&border_radius=10&hide_border=false" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideal402&exclude_repo=ideal402.github.io,CircusCircuit-unity-project,CV-unity-project&layout=donut&title_color=D9BD89&text_color=D9BD89&bg_color=121D40&border_color=0D0D0D&border_radius=10&hide_border=true&show_icons=true" style="height: 200px;">
+  </div>
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ideal402&bg_color=121D40&color=D9BD89&line=D9BD89&point=D9BD89&area=true&hide_border=true" style="width: 95%; height:300px">
+  </div>
+</div>
+
