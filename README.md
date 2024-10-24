@@ -47,17 +47,6 @@
 <h2>GitHub Stats</h2>
 <div align=center>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ideal402&show_icons=true&title_color=F2E9D8&text_color=F2DFBB&bg_color=2E2E2E&icon_color=F2E9D8&border_color=F2E9D8&border_radius=10&hide_border=true" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideal402&exclude_repo=ideal402.github.io,CircusCircuit-unity-project,CV-unity-project&layout=donut&title_color=F2E9D8&text_color=F2DFBB&bg_color=2E2E2E&border_color=F2E9D8&border_radius=10&hide_border=true&show_icons=true" style="height: 200px;">
-  </div>
-  <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ideal402&bg_color=2E2E2E&color=F2DFBB&line=F2E9D8&point=F2DFBB&area=true&hide_border=true" style="width: 95%; heigth:300px">
-  </div>
-</div>
-
-<h2>GitHub Stats</h2>
-<div align=center>
-  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=ideal402&show_icons=true&title_color=D9BD89&text_color=F2DFBB&bg_color=0D0D0D&icon_color=2B4C8C&border_color=151A37&border_radius=10&hide_border=false" style="height: 200px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideal402&exclude_repo=ideal402.github.io,CircusCircuit-unity-project,CV-unity-project&layout=donut&title_color=D9BD89&text_color=F2E9D8&bg_color=0D0D0D&icon_color=2B4C8C&border_color=151A37&border_radius=10&hide_border=false&show_icons=true" style="height: 200px;">
   </div>
