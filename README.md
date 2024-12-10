@@ -37,6 +37,11 @@
     <img src="https://img.shields.io/badge/slack-4A154B.svg?style=flat-rounded&logo=slack&logoColor=white" style="border-radius: 10px; height: 25px;"/>&nbsp
     <img src="https://img.shields.io/badge/jira-0052CC.svg?style=flat-rounded&logo=jira&logoColor=white" style="border-radius: 10px; height: 25px;"/>&nbsp
 </div>
+<div> 
+    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat-rounded&logo=c&logoColor=white" style="border-radius: 10px; height: 25px;"/>
+    <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat-rounded&logo=c%2B%2B&logoColor=white" style="border-radius: 10px; height: 25px;"/>&nbsp
+</div>
+
 
 <h2>Resume</h2>
 <a href="https://superb-chickadee-123.notion.site/d6eebab83c954bac97d21bcff38c5e78" target="_blank">Notion</a>
