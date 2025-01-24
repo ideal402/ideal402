@@ -44,7 +44,7 @@
 
 
 <h2>Resume</h2>
-<a href="https://superb-chickadee-123.notion.site/d6eebab83c954bac97d21bcff38c5e78" target="_blank">Notion</a>
+<a href="https://ideal-portfolio.notion.site/SW-1515149ed4da80a3b875ee2167ad0bf2" target="_blank">Notion</a>
 
 <br>
 <br>
